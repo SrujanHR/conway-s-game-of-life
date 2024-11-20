@@ -7,7 +7,7 @@
 4.Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 ##Additional Info
-you can learn more about John Horton Conway's, game of life here :https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life \n 
-you can learn more about John Horton Conway here :https://en.wikipedia.org/wiki/John_Horton_Conway \n
-you can try the game of life here :https://playgameoflife.com/ (not affiliated to me)\n
+you can learn more about John Horton Conway's, game of life here :https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+you can learn more about John Horton Conway here :https://en.wikipedia.org/wiki/John_Horton_Conway
+you can try the game of life here :https://playgameoflife.com/ (not affiliated to me)
 you can explore diffrent stable and predictable combinations here: https://playgameoflife.com/lexicon (not affiliated to me)
