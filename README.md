@@ -10,9 +10,9 @@ The game is governed by four simple rules:
 4. **Reproduction**: Any dead cell with exactly three live neighbors becomes a live cell.
 
 ## Learn More
-- [you can learn more about John Horton Conway's, game of life here : ](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-- [you can learn more about John Horton Conway here : ](https://en.wikipedia.org/wiki/John_Horton_Conway)
-- [you can try the game of life here : ](https://playgameoflife.com/) *(not affiliated with me)*
-- [you can explore diffrent stable and predictable combinations/patterns here:](https://playgameoflife.com/lexicon) *(not affiliated with me)*
+- [you can learn more about John Horton Conway's, game of life here from Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [you can learn more about John Horton Conway here from Wikipedia](https://en.wikipedia.org/wiki/John_Horton_Conway)
+- [you can try the game of life here](https://playgameoflife.com/) *(not affiliated with me)*
+- [you can explore diffrent stable and predictable combinations/patterns here](https://playgameoflife.com/lexicon) *(not affiliated with me)*
 
 
